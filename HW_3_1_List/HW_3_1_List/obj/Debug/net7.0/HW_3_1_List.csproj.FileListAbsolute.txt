@@ -1,0 +1,15 @@
+D:\C#\A-level_C#\Projects\HW_3_1_List\HW_3_1_List\HW_3_1_List\bin\Debug\net7.0\HW_3_1_List.exe
+D:\C#\A-level_C#\Projects\HW_3_1_List\HW_3_1_List\HW_3_1_List\bin\Debug\net7.0\HW_3_1_List.deps.json
+D:\C#\A-level_C#\Projects\HW_3_1_List\HW_3_1_List\HW_3_1_List\bin\Debug\net7.0\HW_3_1_List.runtimeconfig.json
+D:\C#\A-level_C#\Projects\HW_3_1_List\HW_3_1_List\HW_3_1_List\bin\Debug\net7.0\HW_3_1_List.dll
+D:\C#\A-level_C#\Projects\HW_3_1_List\HW_3_1_List\HW_3_1_List\bin\Debug\net7.0\HW_3_1_List.pdb
+D:\C#\A-level_C#\Projects\HW_3_1_List\HW_3_1_List\HW_3_1_List\obj\Debug\net7.0\HW_3_1_List.csproj.AssemblyReference.cache
+D:\C#\A-level_C#\Projects\HW_3_1_List\HW_3_1_List\HW_3_1_List\obj\Debug\net7.0\HW_3_1_List.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\A-level_C#\Projects\HW_3_1_List\HW_3_1_List\HW_3_1_List\obj\Debug\net7.0\HW_3_1_List.AssemblyInfoInputs.cache
+D:\C#\A-level_C#\Projects\HW_3_1_List\HW_3_1_List\HW_3_1_List\obj\Debug\net7.0\HW_3_1_List.AssemblyInfo.cs
+D:\C#\A-level_C#\Projects\HW_3_1_List\HW_3_1_List\HW_3_1_List\obj\Debug\net7.0\HW_3_1_List.csproj.CoreCompileInputs.cache
+D:\C#\A-level_C#\Projects\HW_3_1_List\HW_3_1_List\HW_3_1_List\obj\Debug\net7.0\HW_3_1_List.dll
+D:\C#\A-level_C#\Projects\HW_3_1_List\HW_3_1_List\HW_3_1_List\obj\Debug\net7.0\refint\HW_3_1_List.dll
+D:\C#\A-level_C#\Projects\HW_3_1_List\HW_3_1_List\HW_3_1_List\obj\Debug\net7.0\HW_3_1_List.pdb
+D:\C#\A-level_C#\Projects\HW_3_1_List\HW_3_1_List\HW_3_1_List\obj\Debug\net7.0\HW_3_1_List.genruntimeconfig.cache
+D:\C#\A-level_C#\Projects\HW_3_1_List\HW_3_1_List\HW_3_1_List\obj\Debug\net7.0\ref\HW_3_1_List.dll
